@@ -1,0 +1,31 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="index.js">
+    <Files>
+      <File FileName="index.js" Line="39" Column="1" />
+      <File FileName="Api/members.js" Line="32" Column="24" />
+      <File FileName="members.js" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Express_Crash_Course" expanded="True">
+            <Node name="Solution Items" expanded="True">
+              <Node name="MiddleWare" expanded="True" />
+              <Node name="Public" expanded="True" />
+              <Node name="routes" expanded="True">
+                <Node name="api" expanded="True" />
+              </Node>
+              <Node name="/Users/james/Projects/Express_Crash_Course/members.js" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
