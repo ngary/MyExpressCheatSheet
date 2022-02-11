@@ -38,12 +38,7 @@ app.use(express.static(path.join(__dirname, 'Public')));
 // Members api stuff route
 
 app.use('/api/members', require('./routes/api/members'));
-
-
-
-
     
-
 
 // Server setup
 
